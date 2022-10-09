@@ -16,13 +16,12 @@ theme = 'maverick'
     theme = 'github-light'
 
 
-[Params.social.share]
-  facebook = true
-  linkedin = true
-  twitter = true
-  whatsapp = true
-  email = true
-
+  [params.social.share]
+    facebook = true
+    linkedin = true
+    twitter = true
+    whatsapp = true
+    email = true
 
 [menu]
   [[menu.main]]
@@ -84,4 +83,3 @@ theme = 'maverick'
   baseName = "feed"
 
 ignoreErrors = ["error-remote-getjson"]
-
