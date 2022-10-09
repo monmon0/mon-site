@@ -1,7 +1,11 @@
 ---
-author: "Monica"
-title: "Rich Content"
+author: "Monica Trinh"
+title: "Personal Thought on Image Generation AI As an Art Doer"
 date: "2022-03-10"
+tags: 
+- tech
+- ai
+- art
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sodales, est eget pretium accumsan, ante velit convallis felis, ac fringilla ex tellus non libero. Duis non eleifend erat. Etiam tempus, velit pharetra vehicula placerat, risus ipsum lacinia est, at convallis purus augue in sapien. Nulla non magna maximus, volutpat ligula id, mattis ante. Aenean nec sollicitudin lacus, fermentum commodo enim. Phasellus quam turpis, auctor eget ex sit amet, porttitor tristique nisi. Nam eget dolor imperdiet, blandit dui ac, consectetur nisi.

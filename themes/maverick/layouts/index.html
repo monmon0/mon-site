@@ -1,20 +1,15 @@
 <!doctype html>
 <html lang="en">
-  {{ partial "head.html" . }}  
+  {{ partial "head.html" . }}
 <body>
   <a class="skip-link" href="#main">Skip to main</a>
   <main id="main">
     <div class="content">
-      
       {{ partial "header.html" . }}
       {{ .Content }}
-      <div>
-        <p>
-          <b>Welcome to my page ~ 👋 </b>
-        </p>
-      <h1>Latest Blog</h1>
-     
-      </div>
+
+      {{ partial "socialshare.html" . }}
+      <h1>Latest Blogs</h1>
       <section>
         {{ range (first 3 (where .Site.RegularPages "Section" "posts" ).ByDate.Reverse) }}
           <p>
@@ -23,7 +18,11 @@
           <p>
         {{ end }}
       </section>
+
     </div>
+    <hr />
+
+    {{ partial "footer.html" .}}
   </main>
 </body>
 </html>

@@ -1,8 +1,5 @@
 ---
-title: About
-
-socialshare: true
-
+title: Projects
 ---
 
 **Maverick** is a minimalistic Hugo blogging theme. The theme is inspired from [Poole](https://getpoole.com) and [Listed](https://github.com/ronv/listed)
@@ -20,4 +17,3 @@ socialshare: true
 - Robots.txt
 - Ultra fast
 - Github comment
-
