@@ -1,0 +1,5 @@
+baseURL = 'http://monicatrinh.xyz/'
+languageCode = 'en-us'
+title = 'Monica Trinh'
+
+theme = "maverick"
