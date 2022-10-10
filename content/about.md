@@ -1,8 +1,8 @@
 ---
-title: About
+title: Get to Know Me
 ---
 
-**I believe** is a minimalistic Hugo blogging theme. The theme is inspired from [Poole](https://getpoole.com) and [Listed](https://github.com/ronv/listed)
+My **goal** is to become a **polymath** and approaching problems from a **multi-disciplinary** perspective. (like...like Da Vinci ꒰꒪꒫꒪⌯꒱♡✧)
 
 ### Tech
 - I onced joined a Hackathon, got 1st but the prize was taken away since my idea was "brilliant" but the code was not 
@@ -19,9 +19,10 @@ title: About
 ### Miscellaneous
 
 - My favourite book is "The Picture of Dorian Gray" by Oscar Wilde 
-- I love getting into heated debate, a little too much for my own good
+- I taught myself AP Calculus BC before taking any Calculus class
 - I got really hyper fixated on a hobby, a list of them include lego brick building, wooden model building, Ripstick riding, needle felting, collecting books and figures, and of course, art and coding.
 - I love love love x3 planning, I love organize my daily schedule and plan ahead for everything
+- I love getting into heated debate, a little too much for my own good
 - I can recite quotes from The Big Bang Theory
 
 <h1>Some of my favourite quotes</h1>
