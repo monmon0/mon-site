@@ -38,7 +38,7 @@ theme = 'maverick'
 
 
  [[menu.main]]
-    identifier = "Projects"
+    identifier = "projects"
     name = "Projects"
     url = "/projects/"
     weight = "-200"
