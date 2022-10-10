@@ -395,21 +395,21 @@ ul.share-icons li > * .label {
   }
   
   .slider li {
-    width: 680px;
     height: 320px;
     position: absolute;
     top: -325px;
     list-style: none;
-    font-size: 20px;
+    display: flex;
+    flex-direction: column;
   }
   
   .slider .quote {
-    font-size: 20px;
+    font-size: 1.3rem;
     font-style: italic;
   }
   
   .slider .source {
-    font-size: 15px;
+    font-size: 0.8rem;
     text-align: right;
   }
   
