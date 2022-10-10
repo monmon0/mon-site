@@ -6,6 +6,7 @@
   <main id="main">
   <div class="content">
     {{ partial "header.html" . }}
+
     <section>
       <ul reversed class="list">
         {{ range .Pages }}
@@ -19,6 +20,8 @@
       </ul>
     </section>
   </div>
+  {{ partial "footer.html"}}
+
 </main>
 </body>
 </html>

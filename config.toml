@@ -1,4 +1,4 @@
-baseURL = 'https://monicatrinh.xyz'
+baseURL = 'https://monicatrinh.xyz/'
 languageCode = 'en-us'
 title = 'Monica Trinh'
 paginate = 3
@@ -9,7 +9,7 @@ theme = 'maverick'
 
 [params]
   logo = '/assets/images/avatar.png'
-  description = "Monica and her dog"
+  description = "Monica Personal Site"
 
   [params.comments]
     githubRepo = 'monmon0/mon-site'
@@ -28,7 +28,7 @@ theme = 'maverick'
     identifier = "about"
     name = "Get to know me"
     url = "/about/"
-    weight = "-400"
+    weight = "-300"
 
   [[menu.main]]
     identifier = "posts"
@@ -41,13 +41,8 @@ theme = 'maverick'
     identifier = "Projects"
     name = "Projects"
     url = "/projects/"
-    weight = "-300"
-
- [[menu.main]]
-    identifier = "Art"
-    name = "Art"
-    url = "/art/"
     weight = "-200"
+
 
 [markup]
   [markup.goldmark.renderer]
@@ -69,6 +64,7 @@ theme = 'maverick'
 
 [taxonomies]
   tag = "tags"
+  author = "author"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
