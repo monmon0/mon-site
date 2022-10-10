@@ -20,13 +20,12 @@ theme = 'maverick'
     facebook = true
     linkedin = true
     twitter = true
-    whatsapp = true
     email = true
 
 [menu]
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "About me"
     url = "/about/"
     weight = "-300"
 

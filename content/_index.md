@@ -8,9 +8,9 @@ socialshare: true
 
 Hey, I'm Monica - a tech enthusiast, coder and art-doer. I grew up in the heart of Vietnam and now curently finishing high school in Canada.
 
-I've always thought I will work in a creative field since I have achieved many things in my art journey, but an introductory course in 2020 using Python has forever changed my career trajectory. I love endowing myself in new possibilities and easily obsessed over anything I find remotely interesting.
+I've always thought I will work in a creative field since I have achieved many things in my art journey, but an introductory course in 2020 using Python has forever changed my career trajectory. I love endowing myself in new possibilities and easily obsessed over anything I find remotely interesting. 
 
-Ever since the 2nd semester of grade 9, I work everyday after school in my family VR arcade. So for the little extra time-frame I have, I spent coding, learning maths and doing art freelance works. I have an inexplicable appreciation for aesthetics, whether it is a exquisite artwork or an elegantly written piece of code; they all tickle my mind and infatuate me.
+Ever since the 2nd semester of grade 9, I work everyday after school in my family VR arcade. So for the little extra time-frame I have, I spent coding, learning maths and doing art freelance works. I have an inexplicable appreciation for aesthetics, whether it is a exquisite artwork or an elegantly written piece of code; they fascinate me unboundedly.
 
 [⋆｡ﾟ☁︎｡ More on me]({{< ref "/about" >}} "About Us")
 # What I'm Currently Working on!
@@ -24,9 +24,10 @@ Ever since the 2nd semester of grade 9, I work everyday after school in my famil
 
 - PyTorch and Solidity: I caught myself thinking about both of them when I'm showering, despite their unparalleled nature.
 - Exploring the potential of AI generated art as an artist
+- Crypto and potential of Web2 DApp and Protocols, and MEV (somewhat)
 - Lego Bricks Building
 - Playing Wordle in my Discord art server using <a href="https://github.com/monmon0/monBot">a bot</a> I coded
-- Picking out outfits for our American Eskimo - Moochi
+- Picking out outfits for our American Eskimo dog - Moochi
 
 # Connect with me
 

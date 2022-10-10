@@ -6,8 +6,8 @@ title: About
 
 ### Tech
 - I onced joined a Hackathon, got 1st but the prize was taken away since my idea was "brilliant" but the code was not 
-- M
--
+- I never knew Github Desktop existed until my teacher pointed it out since my laptop couldn't download it and I have thought manually committing was the only way
+- My first introduction to Computer Science was actually through plain HTML in grade 6 and I thought Marquee (urgh I know) was the coolest thing ever
 
 ### Art
 - I now mainly do freelance commissions and <a href="">1/1 NFT art </a>
@@ -18,10 +18,11 @@ title: About
 
 ### Miscellaneous
 
-- My favourite book is "The Picture of Dorian Gray" by Oscar Wilde
-- 
-- 
-- 
+- My favourite book is "The Picture of Dorian Gray" by Oscar Wilde 
+- I love getting into heated debate, a little too much for my own good
+- I got really hyper fixated on a hobby, a list of them include lego brick building, wooden model building, Ripstick riding, needle felting, collecting rare covers of books, and of course, art and coding.
+- I failed multiple art accounts before actually growing the one that got a big following and get me commissions >:)
+- I can recite quotes from The Big Bang Theory
 
 <h1>Some of my favourite quotes</h1>
 
@@ -54,3 +55,4 @@ title: About
   </div>
 </div>
 
+If you have read this far, please say hi! I'm an awkard introvert but I love it when people get passionate or geek about their hobbies so please do DM me if you have interesting things to discuss. I respond quickest through <a href= ""> Gmail </a> or Discord.

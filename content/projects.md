@@ -7,7 +7,7 @@ title: Projects
 ### Features
 
 - <a href=""> **Cryptomic** </a> <br>
-    Hello 123 <br>
+    + Desgin a NodeJS,  <br>
     Hello 123 <br>
     Hello 123 <br>
 
@@ -16,7 +16,14 @@ title: Projects
     Hello 123 <br>
     Hello 123 <br>
 
+- <a href="">   **Animal Crossing Clone** </a> <br>
+    Hello 123 <br>
+    Hello 123 <br>
+    Hello 123 <br>
+
 - <a href="">   **MonBot** </a> <br>
+    GraphSQL, Discord documentation <br>
     Hello 123 <br>
     Hello 123 <br>
-    Hello 123 <br>
+
+
