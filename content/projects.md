@@ -2,18 +2,21 @@
 title: Projects
 ---
 
-**Maverick** is a minimalistic Hugo blogging theme. The theme is inspired from [Poole](https://getpoole.com) and [Listed](https://github.com/ronv/listed)
+**Portfolio** is a minimalistic Hugo blogging theme. The theme is inspired from [Poole](https://getpoole.com) and [Listed](https://github.com/ronv/listed)
 
 ### Features
 
-- Minimalistic, clean and simple design
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Tags
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Ultra fast
-- Github comment
+- <a href=""> **Cryptomic** </a> <br>
+    Hello 123 <br>
+    Hello 123 <br>
+    Hello 123 <br>
+
+- <a href="">  **NFT Smart Contract** </a> <br>
+    Hello 123 <br>
+    Hello 123 <br>
+    Hello 123 <br>
+
+- <a href="">   **MonBot** </a> <br>
+    Hello 123 <br>
+    Hello 123 <br>
+    Hello 123 <br>
