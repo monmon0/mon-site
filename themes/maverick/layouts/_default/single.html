@@ -11,7 +11,8 @@
       {{ .Content }}
       {{ if eq .Section "posts" }}
       <div class="post-date">
-        <span class="g time">{{.Date.Format "January 2, 2006"}} </span> &#8729;
+        <span class="g time">{{.Date.Format "January 2, 2006"}}</span> &#8729;
+        <span>Tags: </span>
         {{ $taxonomy := "tags" }} {{ with .Param $taxonomy }}
         {{ range $index, $tag := . }} {{ with $.Site.GetPage (printf "/%s/%s"
         $taxonomy $tag) -}}
@@ -26,6 +27,7 @@
       {{ partial "comments.html" $ }}
     </div>
     {{ end }}
+
   </div>
   {{ partial "footer.html"}}
 </main>
