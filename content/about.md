@@ -20,8 +20,8 @@ title: About
 
 - My favourite book is "The Picture of Dorian Gray" by Oscar Wilde 
 - I love getting into heated debate, a little too much for my own good
-- I got really hyper fixated on a hobby, a list of them include lego brick building, wooden model building, Ripstick riding, needle felting, collecting rare covers of books, and of course, art and coding.
-- I failed multiple art accounts before actually growing the one that got a big following and get me commissions >:)
+- I got really hyper fixated on a hobby, a list of them include lego brick building, wooden model building, Ripstick riding, needle felting, collecting books and figures, and of course, art and coding.
+- I love love love x3 planning, I love organize my daily schedule and plan ahead for everything
 - I can recite quotes from The Big Bang Theory
 
 <h1>Some of my favourite quotes</h1>
