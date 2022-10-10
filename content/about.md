@@ -42,7 +42,7 @@ title: About
           <div class="source">- Madelline Miller - The Song of Achilles</div>
         </li>
         <li class="anim4">
-          <div class="quote">... ước mơ 0 chỉ là bàn là tinh thần giúp bạn ủi phẳng những nếp nhăn của số phận mà còn là cách để bạn bắt gặp hình ảnh của Thượng Đế trong bản thân mình.”</div>
+          <div class="quote">... ước mơ 0 chỉ là bàn là tinh thần giúp bạn ủi phẳng những nếp nhăn của số phận mà còn là cách để bạn bắt gặp hình ảnh của Thượng Đế trong bản thân mình”</div>
           <div class="source">- Nguyễn Nhật Ánh - Tôi là Bêtô</div>
         </li>
         <li class="anim5">
