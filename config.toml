@@ -26,7 +26,7 @@ theme = 'maverick'
 [menu]
   [[menu.main]]
     identifier = "about"
-    name = "Get to know me"
+    name = "About"
     url = "/about/"
     weight = "-300"
 
