@@ -23,8 +23,8 @@ Ever since the 2nd semester of grade 9, I work everyday after school in my famil
 # What I'm currently obsessed about!
 
 - PyTorch and Solidity: I caught myself thinking about both of them when I'm showering, despite their unparalleled nature.
-- Exploring the potential of AI generated art as an artist
-- Crypto and potential of Web2 DApp and Protocols, and MEV (somewhat)
+- Exploring different models of image generation AI
+- Crypto and potential of Web3 DApp and Protocols, and MEV (somewhat)
 - Lego Bricks Building
 - Playing Wordle in my Discord art server using <a href="https://github.com/monmon0/monBot">a bot</a> I coded
 
