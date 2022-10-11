@@ -2,34 +2,63 @@
 title: Projects
 ---
 
-**Portfolio** is a minimalistic Hugo blogging theme. 
+These are the list of the miscellaneous projects I have/am working on.
 
-### Features
 
-- <a href=""> **Cryptomic** </a> <br>
-    + Desgin a NodeJS,  <br>
-    Hello 123 <br>
-    Hello 123 <br>
+- **Cryptomic** 
 
-- <a href="">   **MonBot** </a> <br>
-    GraphSQL, Discord documentation <br>
-    Hello 123 <br>
-    Hello 123 <br>
 
-- <a href="">   **Animal Crossing Clone** </a> <br>
-    Hello 123 <br>
-    Hello 123 <br>
-    Hello 123 <br>
+    <div class="progress-element progress-element--75">
+    <div class="progress-container">
+    <progress max="100" value="95"></progress>
+    </div>
+    </div>
+ 
+    *Description*: </br>
+    - Desgin a NodeJS,  </br>
+    - Hello 123 </br>
+    - Hello 123 </br>
 
-- <a href="">   **MonBot** </a> <br>
-    GraphSQL, Discord documentation <br>
-    Hello 123 <br>
-    Hello 12 <br>
+- **Animal Crossing Clone**
+      <div class="progress-element progress-element--100">
+    <div class="progress-container">
+    <progress max="100" value="95">95%</progress>
+    </div>
+    </div>
+ 
+   *Description*: </br>
+    - Desgin a NodeJS,  </br>
+    - Hello 123 </br>
+    - Hello 123 </br>
+
+
+- **MonBot**
+    <div class="progress-element progress-element--100">
+    <div class="progress-container">
+    <progress max="100" value="95">95%</progress>
+    </div>
+    </div>
+ 
+    *Description*: </br>
+    - Desgin a NodeJS,  </br>
+    - Hello 123 </br>
+    - Hello 123 </br>
+
+
 
 - <a href="">   **FND Front-run Bidding** </a> <br>
-    GraphSQL, Discord documentation <br>
-    Hello 123 <br>
-    Hello 123 <br>
+      <div class="progress-element progress-element--100">
+    <div class="progress-container">
+    <progress max="100" value="95">95%</progress>
+    </div>
+    </div>
+ 
+    *Description*: </br>
+    - Desgin a NodeJS,  </br>
+    - Hello 123 </br>
+    - Hello 123 </br>
+
+
 
 
 
