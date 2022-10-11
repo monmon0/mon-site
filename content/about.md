@@ -20,7 +20,7 @@ My **goal** is to become a **polymath** and approaching problems from a **multi-
 
 - My favourite book is "The Picture of Dorian Gray" by Oscar Wilde 
 - I taught myself AP Calculus BC before taking any Calculus class
-- I got really hyper fixated on a hobby, a list of them include lego brick building, wooden model building, Ripstick riding, needle felting, collecting books and figures, and of course, art and coding.
+- I get really hyper fixated on a hobby, a list of them include lego brick building, wooden model building, Ripstick riding, needle felting, collecting books and figures, and of course, art and coding.
 - I love love love x3 planning, I love organize my daily schedule and plan ahead for everything
 - I love getting into heated debate, a little too much for my own good
 - I work in my family VR arcade from 3-10pm everyday (even on weekends) so that makes me exceptionally skilled at Beat Saber (like **actually**)
