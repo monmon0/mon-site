@@ -6,7 +6,7 @@ My **goal** is to become a **polymath** and approaching problems from a **multi-
 
 ### Tech
 - I onced joined a Hackathon, got 1st but the prize was taken away since my idea was "brilliant" but the code was not 
-- I never knew Github Desktop existed until my teacher pointed it out since my laptop couldn't download it and I have thought manually committing was the only way
+- I never knew Github Desktop existed until my teacher pointed it out since my laptop couldn't download it and I have thought manually committing (still do btw) was the only way 
 - My first introduction to Computer Science was actually through plain HTML in grade 6 and I thought Marquee (urgh I know) was the coolest thing ever
 
 ### Art
