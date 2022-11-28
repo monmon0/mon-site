@@ -57,4 +57,5 @@ My **goal** is to become a **polymath** and approaching problems from a **multi-
   </div>
 </div>
 
-If you have read this far, please say hi! I'm an awkard introvert but I love it when people get passionate or geek about their hobbies so please do DM me if you have interesting things to discuss. I respond quickest through <a href= "mailto:monicatrinh05@gmail.com"> Gmail </a> or Discord.
+<p style="font-size: 0.8rem"> If you have read this far, please say hi! I'm an awkard introvert but I love it when people get passionate or geek about their hobbies so please do DM me if you have interesting things to discuss. I respond quickest through <a href= "mailto:monicatrinh05@gmail.com"> Gmail </a> or Discord.
+</p>

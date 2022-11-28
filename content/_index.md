@@ -22,7 +22,7 @@ Ever since the 2nd semester of grade 9, I work everyday after school in my famil
 
 # What I'm currently obsessed about!
 
-- PyTorch and Solidity: I caught myself thinking about both of them when I'm showering, despite their unparalleled nature.
+- PyTorch and how I should not set myself on fire while learning it
 - Exploring different models of image generation AI
 - Crypto and potential of Web3 DApp and Protocols, and MEV (somewhat)
 - Lego Bricks Building
