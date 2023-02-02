@@ -2,18 +2,18 @@
 title: Get to Know Me
 ---
 
-My **goal** is to become a **polymath** and approaching problems from a **multi-disciplinary** perspective. (like...like Da Vinci ꒰꒪꒫꒪⌯꒱♡✧)
+My **goal** is to become a **polymath** and approaching problems from a **multi-disciplinary** perspective. (like Da Vinci ꒰꒪꒫꒪⌯꒱♡✧)
 
 ### Tech
 - I onced joined a Hackathon, got 1st but the prize was taken away since my idea was "brilliant" but the code was not 
-- I never knew Github Desktop existed until my teacher pointed it out since my laptop couldn't download it and I have thought manually committing (still do btw) was the only way 
+- I sometimes do freelance works for front-end coding due to my knowledge in design. I aspire to bridge the current gap between AI and Art creatives. Maybe an AI-backed art program, who knows?
 - My first introduction to Computer Science was actually through plain HTML in grade 6 and I thought Marquee (urgh I know) was the coolest thing ever
 
 ### Art
 - I now mainly do freelance commissions and <a href="https://foundation.app/monmon_06">1/1 NFT art </a>
 - I won 10k USD (1st) from an <a href="https://twitter.com/monmonn_06/status/1517764110728978433?s=20&t=6zZYHXakg7JZhodS8HcqCg">art competition</a> with 500+ entries on Twitter
 - I placed 4th on <a href="https://www.clipstudio.net/en/cspcontest29/">Clip Studio Paint 29th Contest</a> but I actually joined just for the subscription
-- I grow an art account from 0 to 36k+ followers in 6 months on <a href="https://www.instagram.com/chinchin_art/">Instagram</a>
+- I grow an art account from 0 to 36k+ followers in 6 months on <a href="https://www.instagram.com/monmon_artz/">Instagram</a>
 - I maintain an art <a href="https://discord.gg/NJHmwyYRJj">Discord server </a> with 150+ members
 
 ### Miscellaneous
