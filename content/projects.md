@@ -5,20 +5,7 @@ title: Projects
 These are the list of the miscellaneous projects I have/am working on.
 
 
-<a href="" target="_blank" rel="noopener"> **Cryptomic** </a>
 
-
-    <div class="progress-element progress-element--75">
-    <div class="progress-container">
-    <progress max="100" value="95"></progress>
-    </div>
-    </div>
- 
-    *Description*: A decentralized Webcomic page that allowed users to read, save, discuss popular series, using Metamask and smart contracts </br>
-    - Desgin a fullstack decentralized application using NodeJS, Firebase and MetaMask API </br>
-    - Implementing Hardhat Node to design a smart contracts that subtract fund from users </br>
-    - Design and implement an impactful UI to allow user to read, redirect pages, rate and discuss popular series </br>
-    
 - <a href="" target="_blank" rel="noopener"> **Cryptomic** </a>
 
 
