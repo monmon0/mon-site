@@ -30,7 +30,6 @@ These are the list of the miscellaneous projects I have/am working on.
    *Description*: A clone of a popular Nintendo game Animal Crossing using </br>
     - Using P5js, the player can intereact with villagers and engage in activies similar to ANCH </br>
     - The game runs on real time (indicative by the color changing in the ocean) and store data in a local database </br>
-    -  </br>
 
 
 - <a href="https://github.com/monmon0/monBot" target="_blank" rel="noopener"> **MonBot** </a>
