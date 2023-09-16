@@ -6,11 +6,13 @@ socialshare: true
 
 <img class="avatar" src="/./assets/images/avatar.png" alt="avatar">
 
-Hey, I'm Monica - a tech enthusiast, coder and art-doer. I grew up in the heart of Vietnam and now curently finishing high school in Canada.
+Hey, I'm Monica - a tech enthusiast, coder and art-doer. I grew up in the heart of Vietnam and now curently attending the University of Waterloo as a first year Computer Science student.
 
 I've always thought I will work in a creative field since I have achieved many things in my art journey, but an introductory course in 2020 using Python has forever changed my career trajectory. I love endowing myself in new possibilities and easily obsessed over anything I find remotely interesting. 
 
-Ever since the 2nd semester of grade 9, I work everyday after school in my family VR arcade. So for the little extra time-frame I have, I spent coding, learning maths and doing art freelance works. I have an inexplicable appreciation for aesthetics, whether it is a exquisite artwork or an elegantly written piece of code; they fascinate me unboundedly.
+I have an unbounded love for the aesthetic and the beauty in art intertwined with the fascination in mathmetitical precision
+
+<!-- Ever since the 2nd semester of grade 9, I work everyday after school in my family VR arcade. So for the little extra time-frame I have, I spent coding, learning maths and doing art freelance works. I have an inexplicable appreciation for aesthetics, whether it is a exquisite artwork or an elegantly written piece of code; they fascinate me unboundedly. -->
 
 [⋆｡ﾟ☁︎｡ More on me]({{< ref "/about" >}} "About Us")
 # What I'm Currently Working on!
