@@ -1,3 +1,0 @@
-x = "XMCI"
-
-print(enumerate(x))
