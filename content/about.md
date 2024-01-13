@@ -2,7 +2,7 @@
 title: Get to Know Me
 ---
 
-I always have been fascinated by **polymaths** (like Da Vinci ꒰꒪꒫꒪⌯꒱♡✧). As a young obnoxious 18 y.o, I wanted to make my mark on earth but meanwhile, just live to the fullest is good enough.
+I always have been fascinated by **polymaths** (like Da Vinci ꒰꒪꒫꒪⌯꒱♡✧). As a young obnoxious 18 y.o, I wanted to make my mark on earth but meanwhile, just live to the fullest is good enough. 
 
 ### 💻 Tech
 - I'm currently looking for internship. Breaking through the door is hard ;-; Wish I know how to network more but I believe that the harder you work, the easier life gets.
@@ -25,6 +25,11 @@ P/S: (if you interested in my <a href="/projects"> Past Projects <a> or <a href=
 - I love getting into heated debate, a little too much for my own good.
 - I used to work in my family's VR arcade that makes me exceptionally skilled at Beat Saber (like **actually**).
 - I can recite quotes from The Big Bang Theory
+
+### Curent Life Vision
+- Single pet owner travelling and living all over Asia (I really miss the people and the food).
+- Find something I can devote my adult years too since if I don't want a family, I need to employed myself elsewhere.
+- Commission the art god <a href="https://twitter.com/rei_17" target ="_blank"> Rei </a>
 
 <h1>Some of my favourite quotes</h1>
 
