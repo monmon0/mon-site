@@ -5,6 +5,18 @@ title: Projects
 These are the list of the miscellaneous projects I have/am working on.
 
 
+- <a href="https://auth.daooc.world" target="_blank" rel="noopener"> **Dao Oc** </a>
+    <div class="progress-element progress-element--100">
+    <div class="progress-container">
+    <progress max="100" value="95"></progress>
+    </div>
+    </div>
+ 
+   *Description*: A clone of a popular Nintendo game Animal Crossing using </br>
+    - Launched Beta version after 1 month and onboard 500+ users after a week with intensive media campaign. </br>
+    - Developed a full-stack application with NEXTjs, React, Redux and utilized AWS Amplify Studio and Amazon
+    CloudFront to distribute data and images to users
+    - Scaled and managed the website with Kubernetes, Docker and GitLab </br>
 
 - <a href="" target="_blank" rel="noopener"> **Cryptomic** </a>
 
@@ -58,8 +70,10 @@ These are the list of the miscellaneous projects I have/am working on.
     - Implement an algorithm to improve the speed of the program and bid the designated amound to ensure I will be the first bidder </br>
    
 
-### Miscellaneous that I should not have paid for a domain
-<a href="https://monmon0.github.io/th--khoa-l-/">   **Boom Boom Heart** </a> <br>
+### Miscellaneous projects/domains that I could/should finish :')
+- <a href="https://itxmonmon.art"> My OC (original character) Website </a> <br>
+- <a href="https://monmon0.github.io/th--khoa-l-/">   Boom Boom Heart </a> <br>
+
 
 
 

@@ -4,31 +4,33 @@ socialshare: true
 
 ## Welcome to my page! 👋
 
-<img class="avatar" src="/./assets/images/avatar.png" alt="avatar">
+<img class="avatar" src="/./assets/images/pfp.png" alt="avatar">
 
 Hey, I'm Monica - a tech enthusiast, coder and art-doer. I grew up in the heart of Vietnam and now curently attending the University of Waterloo as a first year Computer Science student.
 
 I've always thought I will work in a creative field since I have achieved many things in my art journey, but an introductory course in 2020 using Python has forever changed my career trajectory. I love endowing myself in new possibilities and easily obsessed over anything I find remotely interesting. 
 
-I have an unbounded love for the aesthetic and the beauty in art intertwined with the fascination in mathmetitical precision
+I have an unbounded love for the aesthetic and the beauty in art intertwined with the fascination in mathmetitical precision.
 
 <!-- Ever since the 2nd semester of grade 9, I work everyday after school in my family VR arcade. So for the little extra time-frame I have, I spent coding, learning maths and doing art freelance works. I have an inexplicable appreciation for aesthetics, whether it is a exquisite artwork or an elegantly written piece of code; they fascinate me unboundedly. -->
 
 [⋆｡ﾟ☁︎｡ More on me]({{< ref "/about" >}} "About Us")
 # What I'm Currently Working on!
-- Finishing my certificates in <a href="https://www.coursera.org/learn/stanford-statistics">Statistics</a> and <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Linear Algebra</a> 
-- Building a Classification ML model to categorized AI art vs Real Illustrative Art(🤞 I can write a paper on it before summer) and getting a certificate in a <a href="https://www.coursera.org/specializations/machine-learning-introduction?utm_source=gg&utm_medium=sem&utm_campaign=07_Machine_Learning_Stanford_Search-US&utm_content=B2C&campaignid=685340575&adgroupid=35524166541&device=c&keyword=stanford%20machine%20learning%20certificate%20coursera&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=606802777618&hide_mobile_promo&gclid=Cj0KCQjw4omaBhDqARIsADXULuVxXNJtHG6PMyUW2vBqGi0a0mQeeAPgmjNRXgyf8fvSje22l74ik-AaAniiEALw_wcB">Machine Learning course</a>
-- Alternating between private commissions and some newly launched NFT projects works
+- A commission website for art lovers! (see the updated UI/UX layout about it <a href="https://www.figma.com/file/W3Q1ryf0QVhqH3Z4Kh7HZm/Commission-Site-(client)?type=design&node-id=0%3A1&mode=design&t=ED7SsVcg4R2LXMbe-1"> here </a>). I want to scale it globally and become a 
+frontier in the commission market and open conventions :3 I have always been involved in the art community and I'd love to applied tech to expand the space more.
+- Staying afloat in Statistics and Discrete Math...
+- Trauma bonding on WaterlooWorks
 
 <a href="/projects"> Other Projects ♡✧( •⌄• )</a>
 
-# What I'm currently obsessed about!
+# Some of my goals for this year ~
 
-- PyTorch and how I should not set myself on fire while learning it
-- Exploring different models of image generation AI
-- Crypto and potential of Web3 DApp and Protocols, and MEV (somewhat)
+- Draw my oc more (learn more about <a href="https://www.notion.so/monmon12/0209b1868ea141978235f9257c3e9154?pvs=4"> my character </a>)
+- Cook more and learn to better manage my time
+- Do more low-level programming to deepen my understanding of back-end works
+- Make a MVP for the commission website
 - Lego Bricks Building
-- Playing Wordle in my Discord art server using <a href="https://github.com/monmon0/monBot">a bot</a> I coded
 
-# Connect with me
+
+# Connect with me :3
 

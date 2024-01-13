@@ -1,4 +1,4 @@
-baseURL = 'https://monicatrinh.xyz/'
+baseURL = 'https://monicatrinh.com/'
 languageCode = 'en-us'
 title = 'Monica Trinh'
 paginate = 3
@@ -8,7 +8,7 @@ theme = 'maverick'
   pages = "/:slug"
 
 [params]
-  logo = '/assets/images/avatar.png'
+  logo = '/assets/images/pfp.png'
   description = "Monica Personal Site"
 
   [params.comments]
