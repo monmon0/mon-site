@@ -18,7 +18,7 @@ P/S: (if you interested in my <a href="/projects"> Past Projects <a> or <a href=
 - I grow an art account from 0 to 38k+ followers in 6 months on <a href="https://www.instagram.com/monmon_artz/">Instagram</a>, still my best brag but to be honest, I was really lucky with reels hehe. Unfortunaly, the numbers must decline due to inactivity by now.
 - I got an offer to teach on Class101 but I think I'm really lacking on fundamentals. I would not even pay for my own class.
 
-### Miscellaneous
+### 💡 Miscellaneous
 
 - My favourite book is "The Picture of Dorian Gray" by Oscar Wilde.
 - I get really hyper fixated on a hobby, a list of them include lego brick building, wooden model building, Ripstick riding, needle felting, collecting books and figures, and of course, art and coding.
@@ -26,12 +26,12 @@ P/S: (if you interested in my <a href="/projects"> Past Projects <a> or <a href=
 - I used to work in my family's VR arcade that makes me exceptionally skilled at Beat Saber (like **actually**).
 - I can recite quotes from The Big Bang Theory
 
-### Curent Life Vision
+### 🌏 Curent Life Vision
 - Single pet owner travelling and living all over Asia (I really miss the people and the food).
 - Find something I can devote my adult years too since if I don't want a family, I need to employed myself elsewhere.
 - Commission the art god <a href="https://twitter.com/rei_17" target ="_blank"> Rei </a>
 
-<h1>Some of my favourite quotes</h1>
+<h1>📖 Some of my favourite quotes</h1>
 
 <div class="content-slider">
   <div class="slider">
