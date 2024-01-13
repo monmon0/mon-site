@@ -12,7 +12,7 @@ These are the list of the miscellaneous projects I have/am working on.
     </div>
     </div>
  
-   *Description*: A clone of a popular Nintendo game Animal Crossing using </br>
+   *Description*: A social network website for Original Characters (OC) lovers to showcase their characters, build worlds, and connect with others! </br>
     - Launched Beta version after 1 month and onboard 500+ users after a week with intensive media campaign. </br>
     - Developed a full-stack application with NEXTjs, React, Redux and utilized AWS Amplify Studio and Amazon
     CloudFront to distribute data and images to users

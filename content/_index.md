@@ -16,7 +16,7 @@ I have an unbounded love for the aesthetic and the beauty in art intertwined wit
 
 [⋆｡ﾟ☁︎｡ More on me]({{< ref "/about" >}} "About Us")
 # What I'm Currently Working on!
-- A commission website for art lovers! (see the updated UI/UX layout about it <a href="https://www.figma.com/file/W3Q1ryf0QVhqH3Z4Kh7HZm/Commission-Site-(client)?type=design&node-id=0%3A1&mode=design&t=ED7SsVcg4R2LXMbe-1"> here </a>). I want to scale it globally and become a 
+- A commission website for art lovers! (see the updated UI/UX layout about it <a href="https://www.figma.com/file/W3Q1ryf0QVhqH3Z4Kh7HZm/Commission-Site-(client)?type=design&node-id=0%3A1&mode=design&t=ED7SsVcg4R2LXMbe-1"> here</a>). I want to scale it globally and become a 
 frontier in the commission market and open conventions :3 I have always been involved in the art community and I'd love to applied tech to expand the space more.
 - Staying afloat in Statistics and Discrete Math...
 - Trauma bonding on WaterlooWorks
