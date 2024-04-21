@@ -42,6 +42,11 @@ theme = 'maverick'
     url = "/projects/"
     weight = "-200"
 
+  [[menu.main]]
+    identifier = "art"
+    name = "Art Gallery"
+    url = "/art/"
+    weight = "-300"
 
 [markup]
   [markup.goldmark.renderer]
